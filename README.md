@@ -1,5 +1,7 @@
 # Ali
 
+Project to implement image processing algorithms in MATLAB, including edge detection, filters, and image enhancement.
+
 # MATLAB Project: Image Processing Tools  
 
 ## 🎯 Project Goal  
@@ -22,7 +24,9 @@ src/
 └── utils/             # Utility functions (reading/saving images)  
 
 📚 Sources Used
+
 [Image Processing Toolbox - MATLAB Documentation]
+
 (https://www.mathworks.com/help/images/)
 
 [OpenCV Documentation](https://docs.opencv.org/)
